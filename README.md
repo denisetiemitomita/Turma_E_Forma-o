@@ -1,4 +1,4 @@
-# Turma_E_Forma-o
+# Turma_E_Formação_Deni
 "**Compartilhando minhas primeiras vivências no README**"
 ## Linguagem utilizada:
 
